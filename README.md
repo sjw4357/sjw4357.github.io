@@ -1,5 +1,6 @@
 # Arch Linux Install
 Preperation:
+
 Navigate to archlinux.org/download and download a arch iso from your region
 
 Aquire and launch VM application of your choice
@@ -9,6 +10,7 @@ Create new VM using the arch linux iso obtained earlier
 .
 
 Installation:
+
 Once the VM has loaded, type archinstall in the terminal line
 
 This will take you to an installation menu
